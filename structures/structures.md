@@ -75,7 +75,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Halles Building
+## Halle's Building
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
