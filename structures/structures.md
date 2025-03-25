@@ -3,12 +3,16 @@
 
 # Structures
 
+## 21 Augsburger
+
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](building21Augsburger/prototypeBuilding21AugsburgerSmall.png) | ![](building21Augsburger/model21AugsburgerFrontElevation.png) | 
 [21 Augsburger](building21Augsburger/building21Augsburger.md) | [More About Model](building21Augsburger/building21Augsburger.md)
 
 <hr>
+
+## Bank VanBuren AR
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -17,12 +21,16 @@ Prototype                           |   Model
 
 <hr>
 
+## Block Building
+
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](buildingBlock/prototypeFrontElevation0.png) | ![](buildingBlock/modelFrontElevation0.png) | 
 [Block Building](buildingBlock/buildingBlock.md) | [More About Model](buildingBlock/buildingBlock.md) |
 
 <hr>
+
+## Tennessee Brewery
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -31,12 +39,16 @@ Prototype                           |   Model
 
 <hr>
 
+## Cleveland Twist Drill
+
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](buildingClevelandTwistDrill/prototypeClevelandTwistDrillGhostSign.jpg) | ![](buildingClevelandTwistDrill/clevelandTwistDrillSign_medium.png) |
 [Cleveland Twist Drill](buildingClevelandTwistDrill/buildingCYDC.md) | [More About Model](buildingClevelandTwistDrill/buildingCYDC.md) |
 
 <hr>
+
+## Corner Building
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -45,12 +57,16 @@ Prototype                           |   Model
 
 <hr>
 
+## Forbes Ave. Apartments
+
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](buildingForbes/prototypeFrontElevation.png) | ![](buildingForbes/modelForbesCroppedsmall.png) |
 [Forbes Building](buildingForbes/buildingForbes.md) | [More About Model](buildingForbes/buildingForbes.md) |
 
 <hr>
+
+## Foundry Building
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -59,12 +75,16 @@ Prototype                           |   Model
 
 <hr>
 
+## Halles Building
+
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](buildingHalles/prototypeHallesA.jpeg) | ![](buildingHalles/buildingHalles.png)
 [Halle's Department Store](buildingHalles/buildingHalles.md) | [More About Model](buildingHalles/buildingHalles.md) |
 
 <hr>
+
+## Hyde Building
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -73,12 +93,16 @@ Prototype                           |   Model
 
 <hr>
 
+## Middle Building
+
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](buildingMiddle/modelMiddleFrontElevation1.png) | ![](buildingMiddle/modelMiddleBackElevation.png) |
 [Middle Building](buildingMiddle/buildingMiddle.md) | [More About Model](buildingMiddle/buildingMiddle.md) |
 
 <hr>
+
+## Pat's In The Flats
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -87,12 +111,16 @@ Prototype                           |   Model
 
 <hr>
 
+## St. Rita
+
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](buildingStRitaStartToFinish/modelRitaPrinted0.png) | ![](buildingStRitaStartToFinish/modelRitaSetting1small.png) |
 [St. Rita Start To Finish](buildingStRitaStartToFinish/buildingStRitaStartToFinish.md)  | [More About Model](buildingStRitaStartToFinish/buildingStRitaStartToFinish.md) |
 
 <hr>
+
+## Turret Apartments
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:

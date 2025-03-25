@@ -15,6 +15,5 @@ The adapted plan can be configured as a double track figure eight with two train
 ![](!IMG_1182a.png)
 ![](!IMG_1193.png)
 ![](!IMG_1200b.png)
-![](!IMG_1214.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
