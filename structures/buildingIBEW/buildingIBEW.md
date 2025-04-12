@@ -4,7 +4,7 @@
 
 This structure is based opun a United Steel Worker's building in Pittsburgh.
 
-![](AbuildingIBEW.png)
+![](buildingIBEW.png)
 
 [Back](../structures.md)
 
