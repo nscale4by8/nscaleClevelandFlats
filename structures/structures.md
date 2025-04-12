@@ -96,7 +96,9 @@ Prototype                           |   Model
 
 ## IBEW Building
 
-[More About Model](buildingIBEW/buildingIBEW.md)
+Prototype                           |   Model                   
+:----------------------------------:|:----------------------------------:
+![](buildingIBEW/buildingIBEW.png)  | [More About Model](buildingIBEW/buildingIBEW.md)
 
 <hr>
 
