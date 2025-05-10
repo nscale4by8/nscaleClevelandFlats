@@ -28,7 +28,7 @@ The bridge ties are 3D printed in the largest curved sections my printer can pro
 
 ![Image of steel viaduct](IMG_0110.png)
 
-![This photo is from West Virginia, but it helped to inspire the modeled steel viaduct.](https://cdn.onlyinyourstate.com/wp-content/uploads/2016/07/bridge-history-700x537.jpg)
+![This photo is from West Virginia, but it helped to inspire the modeled steel viaduct.](http://photos.wikimapia.org/p/00/02/29/32/89_full.jpeg)
 
 ![Image of steel viaduct](IMG_0112.png)
 
