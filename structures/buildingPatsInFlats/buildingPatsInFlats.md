@@ -17,8 +17,8 @@ Even though the overall layout is a "Spaghetti Bowl" of track, I try to create r
 ![](./modelPrinted1.png)
 ![](WindowsDoors.stl)
 
-[STL File Walls and Roof](CornerBarDilapidatedRevB.stl)
-[STL File Windows and Doors](WindowsDoors.stl)
+[STL File Walls and Roof](./CornerBarDilapidatedRevB.stl)
+[STL File Windows and Doors](./WindowsDoors.stl)
 
 ![](modelPatsSetting5.png)
 
