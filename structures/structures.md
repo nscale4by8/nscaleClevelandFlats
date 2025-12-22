@@ -7,7 +7,7 @@
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](https://abandonedonline.net/wp-content/uploads/2021/12/20220504-PANO0009-3-Pano-Edit.jpg) | ![](./buildingCrosley/Crosley_roof3.png) | [More About Model](./buildingCrosley/buildingCrosley.md)
+![](https://abandonedonline.net/wp-content/uploads/2021/12/20220504-PANO0009-3-Pano-Edit.jpg) | ![](./buildingCrosley/Crosley_roof3.png) | | [More About Model](./buildingCrosley/buildingCrosley.md)
 
 <hr>
 
