@@ -7,12 +7,12 @@
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](https://abandonedonline.net/wp-content/uploads/2021/12/20220504-PANO0009-3-Pano-Edit.jpg) | ![](./buildingCrosley/Crosley_roof3.png) | 
+![](https://abandonedonline.net/wp-content/uploads/2021/12/20220504-PANO0009-3-Pano-Edit.jpg) | ![](./buildingCrosley/Crosley_roof3.png) | [More About Model](./buildingCrosley/buildingCrosley.md)
 
 <hr>
 
 
-## 21 Augsburger
+## [21 Augsburger](building21Augsburger/building21Augsburger.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -21,7 +21,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Bank VanBuren AR
+## [Bank VanBuren AR](buildingBankVanBurenAR/bank.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -30,7 +30,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Block Building
+## [Block Building](buildingBlock/buildingBlock.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -39,7 +39,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Tennessee Brewery
+## [Tennessee Brewery](buildingBrew/buildingBrew.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -48,7 +48,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Cleveland Twist Drill
+## [Cleveland Twist Drill](buildingClevelandTwistDrill/buildingCYDC.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -57,7 +57,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Corner Building
+## [Corner Building](buildingCorner/buildingCorner.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -66,7 +66,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Forbes Ave. Apartments
+## [Forbes Ave. Apartments](buildingForbes/buildingForbes.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -75,7 +75,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Foundry Building
+## [Foundry Building](buildingFoundry/buildingFoundry.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -84,7 +84,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Halle's Building
+## [Halle's Building](buildingHalles/buildingHalles.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -93,7 +93,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Hyde Building
+## [Hyde Building](buildingHyde/buildingHyde.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -103,7 +103,7 @@ Prototype                           |   Model
 
 <hr>
 
-## IBEW Building
+## [IBEW Building](buildingIBEW/buildingIBEW.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -111,7 +111,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Middle Building
+## [Middle Building](buildingMiddle/buildingMiddle.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -120,7 +120,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Pat's In The Flats
+## [Pat's In The Flats](buildingPatsInFlats/buildingPatsInFlats.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -129,7 +129,7 @@ Prototype                           |   Model
 
 <hr>
 
-## St. Rita
+## [St. Rita](buildingStRitaStartToFinish/buildingStRitaStartToFinish.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
@@ -138,7 +138,7 @@ Prototype                           |   Model
 
 <hr>
 
-## Turret Apartments
+## [Turret Apartments](buildingTurretApartments/buildingTurretApartments.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
