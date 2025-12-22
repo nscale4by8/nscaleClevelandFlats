@@ -7,7 +7,7 @@
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](https://www.wcpo.com/news/insider/redevelop-tristate-threatened) | ![](./Crosley_birdsEye.png) | 
+![](https://www.wcpo.com/news/insider/redevelop-tristate-threatened) | ![](./buildingCrosley/Crosley_birdsEye.png) | 
 
 <hr>
 

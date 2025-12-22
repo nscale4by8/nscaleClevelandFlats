@@ -15,8 +15,7 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](structures/buildingForbes/prototypeFrontElevation.png)  | ![](structures/buildingForbes/model.png) |
-[Forbes Ave. Today](structures/buildingForbes/buildingForbes.md) | [1970s Forbes Ave.](structures/buildingForbes/buildingForbes.md)
+![](https://www.wcpo.com/news/insider/redevelop-tristate-threatened) | ![](./structures/buildingCrosley/Crosley_birdsEye.png) | 
 
 <hr>
 
