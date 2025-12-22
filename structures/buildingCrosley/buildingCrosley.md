@@ -23,7 +23,7 @@ Rusty Stack         |   Details
 Roof         |   Details                  
 :----------------------------------:|:----------------------------------:
 ![](Crosley_roof3.png) | ![](Crosley_roof.png) |
-![](Croslet_roof2.png) | ![](ui.jpeg)
+![](Croslet_roof2.png) |
 
 ## Model
 

@@ -15,7 +15,7 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](https://www.wcpo.com/news/insider/redevelop-tristate-threatened) | ![](./structures/buildingCrosley/Crosley_setting.png) | 
+![](./structures/buildingCrosley/streetVantage.jpeg) | ![](./structures/buildingCrosley/Crosley_corner.png) | 
 
 <hr>
 
