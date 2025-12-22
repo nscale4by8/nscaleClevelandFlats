@@ -7,7 +7,7 @@
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](https://www.wcpo.com/news/insider/redevelop-tristate-threatened) | ![](./buildingCrosley/Crosley_birdsEye.png) | 
+![](https://abandonedonline.net/wp-content/uploads/2021/12/20220504-PANO0009-3-Pano-Edit.jpg) | ![](./buildingCrosley/Crosley_birdsEye.png) | 
 
 <hr>
 
