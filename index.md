@@ -26,7 +26,7 @@ Prototype                           |   Model
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](https://www.flickriver.com/photos/cmhpictures/8040780201/) | ![](liftbridges/LiftbridgeModern00.png) | 
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F1653%2F24833071553_b53724057b_b.jpg&f=1&nofb=1&ipt=06fb646b21da9ed4e1a06ff23137193415095ae1c5aa50e740827b25938ce004) | ![](liftbridges/LiftbridgeModern00.png) | 
 [The Flats Railroads](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpHUeQ9XbRWKbFRsHZ3jI7zU1bL6VEz2TIiA9DbBCMDxHm7F4Dv2ZiNI5PFdQbDh5WLGqENQK9tD88gHERmfPzVLV4I1OdCgzTogQv3g0LHJmLKTVm9S19FaKImJ8xV5VkXWCZmoaTL34sT7tGtFLWM72knp8RrYDU7mxY6PCVshsqYrc3LwnE6dejUg/s508/471480520_122202026120157860_1789234309142349565_n.jpg) | [More Information](./liftbridges/liftbridges.md)
 
 <hr>
