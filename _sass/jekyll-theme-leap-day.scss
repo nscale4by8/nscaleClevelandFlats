@@ -564,3 +564,7 @@ screen and (max-height: 480px) {
     width: auto;
   }
 }
+
+.site-sidebar { padding: 1rem; }
+.site-sidebar .sidebar-image { text-align: center; margin-bottom: 1rem; }
+.site-sidebar .sidebar-image img { max-width: 100%; height: auto; border-radius: 6px; display: inline-block; }
