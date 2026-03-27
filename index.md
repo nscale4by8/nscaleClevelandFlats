@@ -26,7 +26,7 @@ Prototype                           |   Model
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](https://github.com/nscale4by8/nscaleClevelandFlats/blob/Published/liftbridges/flatsLiftBridge.jpg) | ![](liftbridges/LiftbridgeModern00Small.png) | 
+![](./liftbridges/flatsLiftBridge.jpg) | ![](./liftbridges/LiftbridgeModern00Small.png) | 
 ![](./liftbridges/flatsRailroads) | [More Information](./liftbridges/liftbridges.md)
 
 <hr>
