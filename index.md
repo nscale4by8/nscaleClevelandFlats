@@ -17,7 +17,7 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](./structures/buildingCrosley/streetVantage.jpeg) | ![](./structures/buildingCrosley/Crosley_corner.png)) | 
+![](./structures/buildingCrosley/streetVantageSmall.jpeg) | ![](./structures/buildingCrosley/Crosley_corner.png)) | 
 
 <hr>
 
