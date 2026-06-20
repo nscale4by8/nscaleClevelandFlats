@@ -14,7 +14,7 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](./structures/buildingGlobeIron/GlobeIronworks.jpg) | ![](./structures/buildingGlobeIron/globeIron08.png) | 
-[Globe Iron Works](structures/buildingGlobeIron/globeIron.md) | [More About Model](structures/buildingGlobeIron/globeIron.md)
+[Globe Iron Works](./structures/buildingGlobeIron/globeIron.md) | [More About Model](./structures/buildingGlobeIron/globeIron.md)
 
 # [Structures](structures/structures.md) 
 [(click for more)](structures/structures.md)
