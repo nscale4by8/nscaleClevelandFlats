@@ -1,4 +1,4 @@
-[Back](../index.md)
+[Back](../structures.md)
 
 
 # N-Scale Globe Iron Building
@@ -58,4 +58,4 @@ The parts are designed to fit together in only one orientation. In cases where t
 
 **Caution:** Some parts will not interlock together if assembled and glued in a different order than shown in the instructions. One part may cover a channel or tab that mates with another part. When assembled in the order, the tabs and channels are not covered until after the mating parts have been joined.
 
-[Back](../index.md)
+[Back](../structures.md)
