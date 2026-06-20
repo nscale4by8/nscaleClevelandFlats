@@ -12,6 +12,15 @@ Prototype                           |   Model
 
 <hr>
 
+## [Strand Apts](./buildingStrandApt/strandApts.md)
+
+Drawing                             |   Model                   
+:----------------------------------:|:----------------------------------:
+![](./buildingStrandApt/strandAptsAssembled.png) | ![](./buildingStrandApt/Imports04.png) | 
+[Globe Iron Works](./buildingStrandApt/strandApt.md) | [More About Model](./buildingStrandApt/strandApt.md)
+
+<hr>
+
 ## [Crosley Building](./buildingCrosley/buildingCrosley.md)
 
 Prototype                           |   Model                   
