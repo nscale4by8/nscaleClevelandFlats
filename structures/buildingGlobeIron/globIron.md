@@ -1,5 +1,10 @@
+[Back](../index.md)
+
+
 # N-Scale Globe Iron Building
+
 ## A Cleveland Flats Landmark
+
 The Globe Iron building at 2325 Elm St. on the West Bank of Cleveland's Flats once served as the headquarters for the Globe Iron Works Corp. founded in 1853 to manufacture marine, stationary, portable, blowing and hoisting engines. The company soon produced narrow gauge locomotives, rolling mill machinery, boilers, tanks, stills, coarse sheet iron, and general castings. The actual smoke stack iron foundry sprawled along the banks of the Cuyahoga River. Over decades, several annexes and outbuildings expanded the space. By the 1950s, the headquarters building served primarily as a warehouse. In 2023, the historic structure re-opened as a live music venue seating 1200.
 
 | Prototype                 | Model                     |
@@ -52,3 +57,5 @@ The parts are designed to fit together in only one orientation. In cases where t
 ![](globeIronInterlockingParts2.png) ![](globeIronFrontAndSideAssembly.png) 
 
 **Caution:** Some parts will not interlock together if assembled and glued in a different order than shown in the instructions. One part may cover a channel or tab that mates with another part. When assembled in the order, the tabs and channels are not covered until after the mating parts have been joined.
+
+[Back](../index.md)

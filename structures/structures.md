@@ -3,6 +3,15 @@
 
 # Structures
 
+## [Globe Iron Works](./buildingGlobeIron/buildingGlobeIron.md)
+
+Prototype                           |   Model                   
+:----------------------------------:|:----------------------------------:
+![](./buildingGlobeIron/GlobeIronworks.jpg) | ![](./buildingGlobeIron/globeIron08.png) | 
+[Globe Iron Works](./buildingGlobeIron/globeIron.md) | [More About Model](./buildingGlobeIron/globeIron.md)
+
+<hr>
+
 ## [Crosley Building](./buildingCrosley/buildingCrosley.md)
 
 Prototype                           |   Model                   
