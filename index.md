@@ -12,7 +12,7 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 
 <hr>
 
-# <p>&#9734; NEW &#9734;</p>
+# &#9734; NEW &#9734;
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
