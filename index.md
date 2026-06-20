@@ -15,7 +15,7 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 # [Structures](structures/structures.md) 
 [(click for more)](structures/structures.md)
 
-# &#9734; NEW &#9734; Globe Iron Works
+## &#9734; NEW &#9734; Globe Iron Works
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
