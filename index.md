@@ -12,21 +12,19 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 
 <hr>
 
-# &#9734; NEW &#9734;
+# [Structures](structures/structures.md) 
+[(click for more)](structures/structures.md)
+
+# &#9734; NEW &#9734; Globe Iron Works
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](./structures/buildingGlobeIron/GlobeIronworks.jpg) | ![](./structures/buildingGlobeIron/globeIron08.png) | 
 [Globe Iron Works](./structures/buildingGlobeIron/globeIron.md) | [More About Model](./structures/buildingGlobeIron/globeIron.md)
 
-# [Structures](structures/structures.md) 
-[(click for more)](structures/structures.md)
-
 <hr>
 
-# [Structures](structures/structures.md) 
-[(click for more)](structures/structures.md)
-
+## Crosley Building
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](./structures/buildingCrosley/streetVantageSmall.jpeg) | ![](./structures/buildingCrosley/Crosley_corner.png) | 
