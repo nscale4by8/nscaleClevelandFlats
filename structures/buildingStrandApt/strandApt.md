@@ -40,6 +40,8 @@ Whisky Island was a residential neighborhood throughout the nineteenth century. 
 
 ## Fire Escapes
 
+I love fire escapes. They provide visual interest to the backs of structures. They can look complex like spider webs of iron.
+
 For some reason, people online keep telling me that 3D printed fire escapes are not possible in N Scale. I disagree. Many of my structures incorporate fire escapes, and others have open tread stairs. I'm mystified why people think it isn't possible.
 
 ![](Imports10.png)
