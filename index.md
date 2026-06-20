@@ -24,10 +24,10 @@ Prototype                           |   Model
 
 <hr>
 
-## Crosley Building
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](./structures/buildingCrosley/streetVantageSmall.jpeg) | ![](./structures/buildingCrosley/Crosley_corner.png) | 
+[Crosley Building](./structures/buildingCrosley/buildingCrosley.md) | [More About Model](./structures/buildingCrosley/buildingCrosley.md)
 
 <hr>
 
