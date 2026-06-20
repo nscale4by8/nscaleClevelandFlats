@@ -17,7 +17,7 @@ Prototype                           |   Model
 Drawing                             |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](./buildingStrandApt/strandAptsAssembled.png) | ![](./buildingStrandApt/Imports04.png) | 
-[Globe Iron Works](./buildingStrandApt/strandApt.md) | [More About Model](./buildingStrandApt/strandApt.md)
+[Strand Apts.](./buildingStrandApt/strandApt.md) | [More About Model](./buildingStrandApt/strandApt.md)
 
 <hr>
 
