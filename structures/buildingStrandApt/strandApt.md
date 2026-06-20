@@ -33,9 +33,32 @@ Whisky Island was a residential neighborhood throughout the nineteenth century. 
 ![Irishtown Bend](irishtownBend.png)
 ![Irishtown Bend Map](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F4802%2F39972995074_9aaecdb1ea_b.jpg&f=1&nofb=1&ipt=773af6f0de4f518973c8bfb1dc4e6e4663b2eb83d4912ca2eebb67d38aedbd6b)
 
-| Prototype                 | Model                     |
+| SketchUp Model             | Printed Model            |
 |:-------------------------:|:-------------------------:|
 | ![](strandAptsAssembled.png) | ![](Imports04.png)     |
 
 
+## Fire Escapes
 
+For some reason, people online keep telling me that 3D printed fire escapes are not possible in N Scale. I disagree. Many of my structures incorporate fire escapes, and others have open tread stairs. I'm mystified why people think it isn't possible.
+
+![](Imports10.png)
+
+Strand Apt. uses "New York" style fire escapes, but other structures I've designed use other types.
+
+![](../buildingForbes/modelBackElevation.png)
+
+### Parts Ready To Print
+
+![](fireEscape.png)
+
+### Parts As Assembled
+
+Note how all the parts interlock so they can only be assembled one way. This also provides extra surface area for glue.
+
+![](fireEscapePartsInterlockA.png)![](fireEscapeAssembled.png)
+![](fireEscapePartsInterlockB.png)
+
+## Gallery
+
+![](Imports02.png)![](Imports03.png)![](Imports05.png)![](Imports06.png)![](Imports07.png)![](Imports08.png)![](Imports09.png)![](Imports09.png)![](Imports11.png)![](Imports12.png)
