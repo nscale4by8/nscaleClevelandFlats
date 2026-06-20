@@ -20,6 +20,8 @@ Prototype                           |   Model
 [(click for more)](structures/structures.md)
 
 
+<hr>
+
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](structures/buildingForbes/prototypeFrontElevation.png)  | ![](structures/buildingForbes/model.png) |
