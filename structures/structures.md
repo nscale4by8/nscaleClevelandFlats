@@ -12,7 +12,7 @@ Prototype                           |   Model
 
 <hr>
 
-## [Strand Apts](./buildingStrandApt/strandApts.md)
+## [Strand Apts](./buildingStrandApt/strandApt.md)
 
 Drawing                             |   Model                   
 :----------------------------------:|:----------------------------------:
