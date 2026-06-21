@@ -13,7 +13,7 @@ There were two "golden" ages of public housing in Cleveland. The first occurred 
 
 Residents soon migrated to suburbs and self-segregated along ethnic and racial lines. The Cleveland suburb, Parma, became "Big Italy" in contrast to the smaller East Side neighborhood called "Little Italy". Soon, Polish immigrants replaced the Italians. You can still buy Polska Kielbasa in any Parma grocery store even though few native Polish speakers remain.
 
-A second wave of public housing emerged to house almost destitute families in the 1930s Great Depression. The truly destitute became homeless in hobo camps and Hoovervilles. Owners of "luxury" apartment buildings built during the 1920s were forced to lower rents. They couldn't squeeze blood from a stone. Landlords catered to working families who paid at least token rent. These landlords tended to enforce strict racial and ethnic segregation.
+A second wave of public housing emerged to serve almost destitute families in the 1930s Great Depression. The truly destitute became homeless in hobo camps and Hoovervilles. Owners of "luxury" apartment buildings built during the 1920s were forced to lower rents. They couldn't squeeze blood from a stone. Landlords catered to working families who paid at least token rent. These landlords tended to enforce strict racial and ethnic segregation.
 
 ## Inspiration from David K. Smith
 
