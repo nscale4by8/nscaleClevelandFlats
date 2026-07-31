@@ -12,5 +12,6 @@ The following image shows a test fit of printed and painted parts prior to gluin
 
 ![](model21AugsburgerBackElevation.png)
 ![](exposedMechanicals.png)
+![](modelOnLayout.png)
 
 [Back](../structures.md)
