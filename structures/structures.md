@@ -162,7 +162,7 @@ Prototype                           |   Model
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](buildingTurretApartments/modelTurretProfile0.png) | ![](buildingTurretApartments/modelTurretFrontElevation0.png) |
-[Turret Apartments](buildingTurretApartments/buildingTurretAppartments.md) | [More About Model](buildingTurretApartments/buildingTurretApartments.md) |
+[Turret Apartments](buildingTurretApartments/buildingTurretApartments.md) | [More About Model](buildingTurretApartments/buildingTurretApartments.md) |
 
 [Back](../index.md)
 
