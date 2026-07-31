@@ -11,5 +11,6 @@ On a trip to Berlin, a walk near the Zoo S-Bahn station delivered me to a neighb
 The following image shows a test fit of printed and painted parts prior to gluing.
 
 ![](model21AugsburgerBackElevation.png)
+![](exposedMechanicals.png)
 
 [Back](../structures.md)
