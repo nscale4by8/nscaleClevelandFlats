@@ -20,7 +20,7 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 Model                           |   Assembled                   
 :----------------------------------:|:----------------------------------:
 ![](./structures/buildingDecoOffice/decoFacadeA.png) | ![](./structures/buildingDecoOffice/decoAssembled02.png) | 
-[Art Deco Office Building](./buildingDecoOffice/decoOffice.md) | [More About Model](./buildingDecoOffice/decoOffice.md)
+[Art Deco Office Building](./structures/buildingDecoOffice/decoOffice.md) | [More About Model](./structures/buildingDecoOffice/decoOffice.md)
 
 <hr>
 
