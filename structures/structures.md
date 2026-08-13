@@ -3,6 +3,13 @@
 
 # Structures
 
+## [Art Deco Office](./buildingDecoOffice/decoOffice.md)
+
+Model                           |   Assembled                   
+:----------------------------------:|:----------------------------------:
+![](./buildingDecoOffice/decoFacadeA.png) | ![](./buildingDecoOffice/decoAssembled02.png) | 
+[Art Deco Office Building](./buildingDecoOffice/decoOffice.md) | [More About Model](./buildingDecoOffice/decoOffice.md)
+
 ## [Globe Iron Works](./buildingGlobeIron/buildingGlobeIron.md)
 
 Prototype                           |   Model                   

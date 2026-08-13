@@ -15,12 +15,12 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 # [Structures](structures/structures.md) 
 [(click for more)](structures/structures.md)
 
-## &#9734; NEW &#9734; Globe Iron Works
+## &#9734; NEW &#9734; Art Deco Office Building
 
-Prototype                           |   Model                   
+Model                           |   Assembled                   
 :----------------------------------:|:----------------------------------:
-![](./structures/buildingGlobeIron/GlobeIronworks.jpg) | ![](./structures/buildingGlobeIron/globeIron08.png) | 
-[Globe Iron Works](./structures/buildingGlobeIron/globeIron.md) | [More About Model](./structures/buildingGlobeIron/globeIron.md)
+![](./structures/buildingDecoOffice/decoFacadeA.png) | ![](./structures/buildingDecoOffice/decoAssembled02.png) | 
+[Art Deco Office Building](./buildingDecoOffice/decoOffice.md) | [More About Model](./buildingDecoOffice/decoOffice.md)
 
 <hr>
 
