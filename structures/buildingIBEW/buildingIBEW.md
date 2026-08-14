@@ -8,7 +8,7 @@ This structure is based on a United Steel Worker's building in Pittsburgh.
 
 ## Details of Bricks, Trim,, and Windows
 
-![](_brick.png) ![](_windowsAndTrim.png) ![](_trimWithBrick.png)
+![](brick.png) ![](windowsAndTrim.png) ![](trimWithBrick.png)
 
 [Back](../structures.md)
 
