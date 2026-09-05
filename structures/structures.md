@@ -3,6 +3,12 @@
 
 # Structures
 
+## [Sunshine Cab Company](./buildingSunshineCabCompany/sunshineCabCompany.md)
+
+Rendered Model               | Printed Model                  
+:---------------------------:|:-------------------------------:
+![](./buildingSunshineCabCompany/SunshineCabCompanyB.png) | ![](./buildingSunshineCabCompany/sunshineCabCoE.png)
+
 ## [Art Deco Office](./buildingDecoOffice/decoOffice.md)
 
 Model                           |   Assembled                   
