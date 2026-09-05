@@ -7,7 +7,7 @@
 
 Rendered Model               | Printed Model                  
 :---------------------------:|:-------------------------------:
-![](./buildingSunshineCabCompany/SunshineCabCompanyB.png) | ![](./buildingSunshineCabCompany/sunshineCabCoE.png)
+![](./buildingSunshineCabCompany/SunshineCabCompanyBsmall.png) | ![](./buildingSunshineCabCompany/sunshineCabCoE.png)
 
 ## [Art Deco Office](./buildingDecoOffice/decoOffice.md)
 
