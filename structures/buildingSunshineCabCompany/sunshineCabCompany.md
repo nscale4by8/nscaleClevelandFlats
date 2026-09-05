@@ -4,10 +4,10 @@
 
 Rendered Model               | Printed Model                  
 :---------------------------:|:-------------------------------:
-![](SunshineCabCompanyB.png) | ![](sunshineCabCoE.png)
+![](SunshineCabCompanyBsmall.png) | ![](sunshineCabCoE.png)
 
 Front                        | On Module                 
 :---------------------------:|:-------------------------------:
-![](sunshineCabCoA.png)      | ![](sunshineCabCoG.png)
+![](sunshineCabCoAlarge.png)      | ![](sunshineCabCoG.png)
 
 [Back](../structures.md)
