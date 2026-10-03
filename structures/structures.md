@@ -3,6 +3,14 @@
 
 # Structures
 
+## [Curved Building](./buildingCurved/buildingCurved.md/buildingCurved.md)
+
+On Module         |   Side       | Back                  
+:------------:|:-------------:|:-------------------:
+![](./buildingCurved/A07.png) | ![](./buildingCurved/A02.png) | ![](./buildingCurved/A05.png)
+[Curved Building](./buildingCurved/buildingCurved.md) | [More About Model](./buildingCurved/buildingCurved.md)
+
+
 ## [Sunshine Cab Company](./buildingSunshineCabCompany/sunshineCabCompany.md)
 
 Rendered Model               | Printed Model                  
