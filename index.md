@@ -15,19 +15,13 @@ The Wiki Page is a space for running commentary, documentation updates, announce
 # [Structures](structures/structures.md) 
 [(click for more)](structures/structures.md)
 
-## &#9734; NEW &#9734; Art Deco Office Building
+## &#9734; NEW &#9734; Curved Building
 
-Model                           |   Assembled                   
-:----------------------------------:|:----------------------------------:
-![](./structures/buildingDecoOffice/decoFacadeA.png) | ![](./structures/buildingDecoOffice/decoAssembled02.png) | 
-[Art Deco Office Building](./structures/buildingDecoOffice/decoOffice.md) | [More About Model](./structures/buildingDecoOffice/decoOffice.md)
+On Module         |   Side       | Back                  
+:------------:|:-------------:|:-------------------:
+![](./structures/buildingCurved/A07.png) | ![](./structures/buildingCurved/A02.png) | ![](./structures/buildingCurved/A05.png)
+[Curved Building](./structures/buildingCurved/buildingCurved.md) | [More About Model](././structures/buildingCurved/buildingCurved.md)
 
-<hr>
-
-Prototype                           |   Model                   
-:----------------------------------:|:----------------------------------:
-![](./structures/buildingCrosley/streetVantageSmall.jpeg) | ![](./structures/buildingCrosley/Crosley_corner.png) | 
-[Crosley Building](./structures/buildingCrosley/buildingCrosley.md) | [More About Model](./structures/buildingCrosley/buildingCrosley.md)
 
 <hr>
 
